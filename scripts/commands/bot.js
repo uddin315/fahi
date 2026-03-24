@@ -166,7 +166,7 @@ module.exports.handleEvent = async function({ api, event, Users }) {
           "কি বললে? শুনতে পেলাম না 😅",
           "I love you baby 😘",
           "Love you 3000-😍💋💝",
-          "আমাকে না ডেকে আমার বস জয়কে ডাকো! 💪 link: https://www.facebook.com/share/1CTuzBshsk/",
+          "আমাকে না ডেকে আমার ফাহিমকে ডাকো! 💪 link: https://www.facebook.com/share/1CTuzBshsk/",
           "তুমি কি আমাকে ডাকলে বন্ধু 🤖?",
           "ভালোবাসি তোমাকে 😍",
           "হুম জান বলো, কি খবর?",
