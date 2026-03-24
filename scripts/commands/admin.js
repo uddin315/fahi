@@ -2,7 +2,7 @@ module.exports.config = {
   name: "admin2",
   version: "2.0.0",
   permission: 0,
-  credits: "Joy",
+  credits: "fahim",
   description: "Control bot admin list",
   prefix: false,
   category: "admin",
