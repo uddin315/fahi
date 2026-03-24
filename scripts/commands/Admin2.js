@@ -21,7 +21,7 @@ module.exports.run = async function ({ api, event }) {
       .format("DD MMM YYYY, hh:mm:ss A");
 
     const imageUrl =
-      "https://raw.githubusercontent.com/JUBAED-AHMED-JOY/Joy/main/joy404.png";
+      "https://i.ibb.co/ynwc6BHS/962bbe1d40b0.jpg";
 
     const cacheDir = path.join(__dirname, "cache");
     const imgPath = path.join(cacheDir, "admin_avatar.png");
