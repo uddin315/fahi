@@ -7,7 +7,7 @@ module.exports.config = {
   name: "info",
   version: "1.0.0",
   permission: 0,
-  credits: "Joy",
+  credits: " fahim",
   description: "Displays personal info of the bot owner",
   prefix: true,
   category: "info",
@@ -23,16 +23,16 @@ module.exports.config = {
 module.exports.run = async function ({ api, event }) {
   const currentTime = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
 
-  const imageUrl = "https://raw.githubusercontent.com/JUBAED-AHMED-JOY/Joy/main/joy404.png";
+  const imageUrl = "https://raw.githubusercontent.com/https://www.facebook.com/share/1CTuzBshsk/";
   const imgPath = __dirname + "/cache/info_avatar.png";
 
   const infoText = `
 ╭╼|━━━━━━━━━━━━━━|╾╮
-👤 𝗡𝗮𝗺𝗲 : 𝗠𝗗 𝗝𝗨𝗕𝗔𝗘𝗗 𝗔𝗛𝗠𝗠𝗘𝗗 𝗝𝗢𝗬
+👤 𝗡𝗮𝗺𝗲 :  Fahim
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : 𝗝𝗢𝗬 𝗔𝗛𝗠𝗘𝗗
+📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : Mezbah uddin fahim 
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
@@ -40,11 +40,11 @@ module.exports.run = async function ({ api, event }) {
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-🏠 𝗣𝗲𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗝𝗮𝗺𝗮𝗹𝗽𝘂𝗿, 𝗗𝗵𝗮𝗸𝗮
+🏠 𝗣𝗲𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : Begumganj , Noakhali 
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-📍 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗧𝗮𝗿𝗮𝗸𝗮𝗻𝗱𝗶, 𝗦𝗮𝗿𝗶𝘀𝗵𝗮-𝗕𝗮𝗿𝗶, 𝗝𝗮𝗺𝗮𝗹𝗽𝘂𝗿
+📍 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : chowmuhoni , Begumganj 
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
@@ -52,7 +52,7 @@ module.exports.run = async function ({ api, event }) {
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-🎂 𝗔𝗴𝗲 : 𝟭𝟲+
+🎂 𝗔𝗴𝗲 : 24+
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
@@ -64,19 +64,19 @@ module.exports.run = async function ({ api, event }) {
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-📧 𝗚𝗺𝗮𝗶𝗹 : mdjubaedahmed124@gmail.com
+📧 𝗚𝗺𝗮𝗶𝗹 : mezbahuddin306@gmail.com
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 : wa.me/+8801709045888
+📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 : wa.me/+393509922751
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 : t.me/JOY_AHMED_88
+✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 : 🚫
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗟𝗶𝗻𝗸 : facebook.com/100003661522127
+🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗟𝗶𝗻𝗸 : https://www.facebook.com/share/1CTuzBshsk/
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
