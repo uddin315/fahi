@@ -23,8 +23,8 @@ module.exports.config = {
 module.exports.run = async function ({ api, event }) {
   const currentTime = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
 
-  const imageUrl = "https://raw.githubusercontent.com/https://www.facebook.com/share/1CTuzBshsk/";
-  const imgPath = __dirname + "/cache/info_avatar.png";
+  const imageUrl = "https://www.facebook.com/share/1CTuzBshsk/";
+  const imgPath = __dirname + "https://i.ibb.co/ynwc6BHS/962bbe1d40b0.jpg";
 
   const infoText = `
 ╭╼|━━━━━━━━━━━━━━|╾╮
