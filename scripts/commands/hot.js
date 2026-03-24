@@ -7,7 +7,7 @@ module.exports.config = {
   name: "hot",
   version: "1.1.0",
   permission: 0,
-  credits: "Joy",
+  credits: "fahim",
   prefix: true,
   description: "Get random 18+ hot video",
   category: "media",
@@ -24,7 +24,7 @@ module.exports.run = async function ({ api, event }) {
   if (!fs.existsSync(cachePath)) fs.mkdirSync(cachePath);
 
   const title = [
-    "╔══❖•𝐉𝐎𝐘-𝐁𝐎𝐓•❖══╗\n\n【• 𝐇𝐎𝐓-𝐕𝐈𝐃𝐄𝐎 •】\n\n╚══❖•𝐉𝐎𝐘-𝐁𝐎𝐓•❖══╝"
+    "╔══❖•fahim-𝐁𝐎𝐓•❖══╗\n\n【• 𝐇𝐎𝐓-𝐕𝐈𝐃𝐄𝐎 •】\n\n╚══❖•Fahim-𝐁𝐎𝐓•❖══╝"
   ];
 
   const links = [
