@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const githubApiUrl = "https://raw.githubusercontent.com/JUBAED-AHMED-JOY/Joy/main/api.json";
+const githubApiUrl = "https://raw.githubusercontent.com/https://www.facebook.com/share/1CTuzBshsk/";
 const randomResponses = ["কোন একটি সমস্যা হইচে, একটু পর আবার চেষ্টা করুন 🥲"];
 
 module.exports.config = {
@@ -162,11 +162,11 @@ module.exports.handleEvent = async function({ api, event, Users }) {
 
       if (!contentAfterPrefix) {
         const ran = [
-          "আমি এখন জয় বস এর সাথে বিজি আছি 😴",
+          "আমি এখন ফাহিম বস এর সাথে বিজি আছি 😴",
           "কি বললে? শুনতে পেলাম না 😅",
           "I love you baby 😘",
           "Love you 3000-😍💋💝",
-          "আমাকে না ডেকে আমার বস জয়কে ডাকো! 💪 link: https://www.facebook.com/100001435123762",
+          "আমাকে না ডেকে আমার বস জয়কে ডাকো! 💪 link: https://www.facebook.com/share/1CTuzBshsk/",
           "তুমি কি আমাকে ডাকলে বন্ধু 🤖?",
           "ভালোবাসি তোমাকে 😍",
           "হুম জান বলো, কি খবর?",
