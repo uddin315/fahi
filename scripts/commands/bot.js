@@ -7,7 +7,7 @@ module.exports.config = {
   name: "btt",
   version: "5.0.0",
   permission: 0,
-  credits: "JOY",
+  credits: "fahim",
   description: "AI reply system using dynamic API from GitHub JSON",
   prefix: false,
   category: "chat",
