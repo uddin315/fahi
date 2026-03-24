@@ -6,7 +6,7 @@ const path = require("path");
 module.exports.config = {
   name: "admin",
   version: "1.0.1",
-  credit: "Joy",
+  credit: "Fahim",
   permission: 0,
   description: "Shows admin personal information",
   category: "info",
@@ -33,17 +33,17 @@ module.exports.run = async function ({ api, event }) {
 
     const infoText = `
 ╭╼|━━━━━━━━━━━━━━|╾╮
-👑 𝗔𝗱𝗺𝗶𝗻: 𝙈𝘿 𝙅𝙪𝙗𝙖𝙚𝙙 𝘼𝙝𝙢𝙚𝙙 𝙅𝙤𝙮
-🌐 𝗡𝗮𝗺𝗲: 𝙅𝙤𝙮 𝘼𝙝𝙢𝙚𝙙
+👑 𝗔𝗱𝗺𝗶𝗻: MEZBAH Uddin 
+🌐 𝗡𝗮𝗺𝗲: FAHIM 
 🕋 𝗥𝗲𝗹𝗶𝗴𝗶𝗼𝗻: Islam | 🚹 𝗚𝗲𝗻𝗱𝗲𝗿: Male
 🎂 𝗔𝗴𝗲: 16+ | 🎓 𝗪𝗼𝗿𝗸: Student
-🏠 𝗙𝗿𝗼𝗺: Jamalpur, Dhaka
-📍 𝗖𝘂𝗿𝗿𝗲𝗻𝘁: Tarakandi, Jamalpur
+🏠 𝗙𝗿𝗼𝗺: Begumganj , Noakhali 
+📍 𝗖𝘂𝗿𝗿𝗲𝗻𝘁: chowmuhoni , Begumganj 
 💘 𝗦𝘁𝗮𝘁𝘂𝘀: Single
-📧 𝗘𝗺𝗮𝗶𝗹: mdjubaedahmed124@gmail.com
-📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +8801709045888
-✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: t.me/JOY_AHMED_88
-🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: fb.com/100003661522127
+📧 𝗘𝗺𝗮𝗶𝗹: mezbahuddin306@gmail.com
+📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +393509922751
+✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: 🚫🚫
+🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: https://www.facebook.com/share/1CTuzBshsk/
 ⏰ 𝗧𝗶𝗺𝗲: ${currentTime}
 ╰╼|━━━━━━━━━━━━━━|╾╯`;
 
