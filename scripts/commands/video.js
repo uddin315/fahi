@@ -7,7 +7,7 @@ const { downloadVideo } = require("joy-video-downloader");
 module.exports.config = {
   name: "video",
   version: "1.0.0",
-  credits: "Joy",
+  credits: "fahim",
   permission: 0,
   description: "Download Video from YouTube or Search",
   prefix: true,
