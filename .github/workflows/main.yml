@@ -1,4 +1,4 @@
-name: fahim-BOT
+name: Joy-BOT
 
 on:
   push:
@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fahim-BOT
+      - name: Joy-BOT
         run: npm start
